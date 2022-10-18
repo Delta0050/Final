@@ -1,6 +1,6 @@
 //@version=4
 //Zid
-study(shorttitle="Oscillator", title="Oscillator", overlay=false)
+study(shorttitle="SniperX", title="Oscillator", overlay=false)
 n1 = input(10, "Longitud Del Canal")
 n2 = input(21, "Periodo Movil")
 reaction_wt  = input(defval=1, title="Reaccion En Cambio De Direccion", minval=1)
